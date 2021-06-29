@@ -37,7 +37,10 @@ h2 {
     flex: 0 1 auto;
     align-self: auto;
   }
-  
+  body {
+    background-color: cornflowerblue;
+    background: darkcyan;
+  }
   @media (min-width: 600px) {
     a {
       width: 18%;

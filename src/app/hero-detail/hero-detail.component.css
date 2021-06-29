@@ -14,6 +14,10 @@ label {
     border-radius: 4px;
     font-size: 1rem;
   }
+  body {
+    background-color: cornflowerblue;
+    background: darkcyan;
+  }
   button:hover {
     background-color: #cfd8dc;
   }
